@@ -1,0 +1,53 @@
+{
+  "manifest": {
+    "author": "rain",
+    "version": "0.0.1",
+    "name": "sakura tree",
+    "transparency_mode": 3,
+    "license": " i dont know what to put here",
+    "updater": "i dont know what to put here"
+  },
+  "background": {
+    "portain": {
+      "front": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "jpeg"
+      },
+      "back": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "jpeg"
+      }
+    },
+    "landscape": {
+      "front": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "jpeg"
+      },
+      "back": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "jpeg"
+      }
+    },
+    "blur_radius": 0,
+    "url": "https://image-1.uhdpaper.com/wallpaper/mount-fuji-cherry-blossom-scenery-anime-art-phone-wallpaper-4k-uhdpaper.com-680@1@k.jpg"
+  },
+  "simple_colors": {
+    "statusbar": -6600775,
+    "background_secondary": 13205487,
+    "active_channel": -436393
+  },
+  "colors": {},
+  "drawable_tints": {}
+}
